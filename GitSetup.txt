@@ -1,0 +1,11 @@
+How To Set up git angular
+
+Create angular or any HTML app in your local folder.
+Login to github.com
+Go to folder where you created the application ==> Open gitBashHere =>write git init 
+after git init ==> git add .
+git add .==> git commit -m"Put Message"
+First time setup code in git hub ==> git remote add origin code url from github.com http url
+git push origin master
+
+
